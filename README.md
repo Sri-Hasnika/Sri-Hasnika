@@ -54,3 +54,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with a strong fo
 🐙 **GitHub:** [github.com/Sri-Hasnika](https://github.com/Sri-Hasnika)  
 
 🚀 *Let's build something amazing together!*  
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sri-Hasnika&theme=radical&show_icons=true&hide_border=false&count_private=true" style="width: 48%; height: 200px; object-fit: cover;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sri-Hasnika&theme=radical&hide_border=false" style="width: 48%; height: 200px; object-fit: cover;"/>
+</div>
