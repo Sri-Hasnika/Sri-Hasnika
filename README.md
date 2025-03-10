@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with a strong fo
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F79D00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+and+Impactful+Solutions!">
 </p>
-## 🚀 Technologies & Tools:
+🚀 Technologies & Tools:
 
 <table>
   <tr>
