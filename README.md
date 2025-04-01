@@ -36,6 +36,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with a strong fo
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <br>Java</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <br>Figma</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/> <br>Canva</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <br>React Native</td>
   </tr>
  
 </table>
